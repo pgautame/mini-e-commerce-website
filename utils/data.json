@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Galaxy S24 Ultra",
+    "price": 1299.0,
+    "description": "Titanium Black, 12GB, 256GB Storage",
+    "imageUrl": "https://m.media-amazon.com/images/I/71RVuBs3q9L._SX679_.jpg"
+  },
+  {
+    "name": "Apple MacBook Air",
+    "price": 899.0,
+    "description": "M1 chip, 8GB RAM, 256GB SSD Storage",
+    "imageUrl": "https://m.media-amazon.com/images/I/71jG+e7roXL._SX679_.jpg"
+  },
+  {
+    "name": "Sony Alpha ILCE-7M3K",
+    "price": 549.0,
+    "description": "Full-Frame 24.2MP Mirrorless Digital SLR Camera",
+    "imageUrl": "https://m.media-amazon.com/images/I/318FD8X6ndL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "name": "Samsung Crystal 4K",
+    "price": 599.0,
+    "description": "Neo Series Ultra HD Smart LED TV (43 inches)",
+    "imageUrl": "https://m.media-amazon.com/images/I/71O4AjyN21L._SX450_.jpg"
+  },
+  {
+    "name": "Sennheiser Momentum 4",
+    "price": 279.0,
+    "description": "Wireless Over ear Headphones Designed in Germany",
+    "imageUrl": "https://m.media-amazon.com/images/I/71TpH0WnUwL._SX522_.jpg"
+  },
+  {
+    "name": "Apple Watch Ultra 2",
+    "price": 799.0,
+    "description": "Stay connected and track your fitness with this smartwatch",
+    "imageUrl": "https://m.media-amazon.com/images/I/71JNSeO-nbL._SX679_.jpg"
+  },
+  {
+    "name": "Marshall Kilburn II",
+    "price": 149.0,
+    "description": "Portable Bluetooth Speaker with 20+ Hours of Portable Playtime",
+    "imageUrl": "https://m.media-amazon.com/images/I/71ur52HJ8cL._SX679_.jpg"
+  },
+  {
+    "name": "God Of War Ragnarok",
+    "price": 39.0,
+    "description": "Sony | Standard Edition | PS5 Game (PlayStation 5)",
+    "imageUrl": "https://m.media-amazon.com/images/I/613lyxBIXoL._SX679_.jpg"
+  },
+  {
+    "name": "Under Armour",
+    "price": 149.0,
+    "description": "Mens Ua Charged Edge Sneaker (Charged Cushioning Midsole)",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Zrjv6MCCL._SY675_.jpg"
+  },
+  {
+    "name": "Samsung 8 kg",
+    "price": 499.0,
+    "description": "5 star, Wi-Fi, Fully-Automatic Front Load Washing Machine",
+    "imageUrl": "https://m.media-amazon.com/images/I/71NeN8AVsnL._SX522_.jpg"
+  }
+]
